@@ -1,0 +1,25 @@
+# Ignore build files
+*.exe
+*.o
+*.out
+*.log
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore compiled libraries
+*.a
+*.so
+*.dll
+
+# Ignore CMake files
+CMakeFiles/
+CMakeCache.txt
+Makefile
+build/
